@@ -3,6 +3,8 @@
 
 **2018-2024 [FinanceData.KR]()**
 
+https://erik-removing-anyway-examined.trycloudflare.com/
+
 # Overview
 The FinanceDataReader is financial data reader(crawler) for finance. <br>
 The main functions are as follows.
